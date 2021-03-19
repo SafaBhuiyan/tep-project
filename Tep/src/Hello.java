@@ -12,7 +12,6 @@ public class Hello {
 		System.out.println("hello world");
 		System.out.println("hello world");
 		System.out.println("hello world");
-		System.out.println("hello world");
 
 		Map<String, Set<String>> personal = new HashMap<>();
 		for (int i = 0; i < vehicles.length; i++) {
